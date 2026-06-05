@@ -5,7 +5,7 @@
 AI-powered translation bridging Kenya's language divide: Swahili ↔ English, with support for Kikuyu, Dholuo, Kamba, and Luo. Built for civic documents, financial communications, health information, and everyday use.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tafsiriai.streamlit.app)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## The Problem
 
@@ -45,4 +45,4 @@ Foundational tool supporting: [DarajaAI](https://github.com/gabrielmahia/daraja-
 
 ---
 
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
