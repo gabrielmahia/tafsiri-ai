@@ -83,4 +83,4 @@ if "back_translation" in st.session_state:
                 unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🌍 Tafsiri AI v1.0 | Lugha za Kenya | CC BY-NC-ND 4.0 | gabrielmahia.ai")
+st.caption("🌍 Tafsiri AI v1.0 | Lugha za Kenya | MIT | gabrielmahia.ai")
